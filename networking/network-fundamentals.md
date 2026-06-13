@@ -1,25 +1,6 @@
-# Network Fundamentals
+# Network Fundamentals for Cybersecurity
 
-## Topics Covered
+## Overview
+Networking is one of the most important foundations in cybersecurity. Understanding how device communicate, exchange data, and access network services is essential before learning topics such as network scanning, penetration testing, web security, and incident response.
 
-- Public vs Private Networks
-- IP Addressing
-- MAC Addressing
-- ICMP and Ping
-- Network Topologies
-- Switches and Routers
-- Subnetting
-- ARP
-- DHCP
-- OSI Model
-- TCP/IP
-- TCP vs UDP
-- Three-Way Handshake
-- Common Ports
-- Port Forwarding
-- Firewalls
-- VPN Basics
-
-## Key Takeaways
-
-This note summarizes the fundamental networking concepts required for cybersecurity and system administration.
+___
